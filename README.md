@@ -1,3 +1,3 @@
 All current and previous labs are in the **Labs/** folder
 
-Current: Lab 4
+Current on GitHub Pages: Lab 4
